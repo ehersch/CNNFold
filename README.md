@@ -1,11 +1,11 @@
-# CS4775_Project
+# CS4775_Project (Migrated from Cornell GitHub for public viewing)
 
-An implementation and further exploration of the Nussinov Algorithm and other RNA folding prediction methods.
+An implementation and further exploration of the Nussinov Algorithm and other RNA folding prediction methods, including deep learning.
 
 First clone our repository by running
 
 ```
-git clone https://github.coecis.cornell.edu/mcb373/CS4775_Project.git
+git clone https://github.com/ehersch/CNNFold.git
 ```
 
 (this may take a while)
